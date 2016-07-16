@@ -23,6 +23,6 @@ color:
     - '#df4a5e'
   brandStrength: 0.25
   lightness: 0.25
-  saturation: 0.4375
-  rhythmicContrast: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
