@@ -1,19 +1,4 @@
-name: Feisty Devils KC
-favicon: null
-layout_spectrum: 0.90794
 typography_spectrum: 0.20157
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,21 @@ color:
   lightness: 0.5625
   saturation: 0
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.90794
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: null
+name: Feisty Devils KC
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Riding Like Hell to Fight MS
 purpose: []
